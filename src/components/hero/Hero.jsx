@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 // import heroImg from "../../assets/abhero.png";
 import Resume from "../../assets/CV.pdf";
 import Countup from "react-countup";
